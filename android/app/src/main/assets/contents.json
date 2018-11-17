@@ -337,6 +337,50 @@
           "emojis": ["©"]
         }
       ]
+    },
+    {
+      "identifier": "4",
+      "name": "Meza forever",
+      "publisher": "CSxD",
+      "tray_image_file": "tray.webp",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+          "emojis": ["👍"]
+        },
+        {
+          "image_file": "02.webp",
+          "emojis": ["👂"]
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": ["🤔"]
+        },
+        {
+          "image_file": "04.webp",
+          "emojis": ["☝️"]
+        },
+        {
+          "image_file": "05.webp",
+          "emojis": ["😂"]
+        },
+        {
+          "image_file": "06.webp",
+          "emojis": ["👉"]
+        },
+        {
+          "image_file": "07.webp",
+          "emojis": ["🌭", "👌"]
+        },
+        {
+          "image_file": "08.webp",
+          "emojis": ["👋"]
+        }
+      ]
     }
   ]
 }
